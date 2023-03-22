@@ -26,6 +26,7 @@
         else
         {
             $error[] = "Nazwa użytkownika już istnieje";
+            //sus
         }
     }
 ?>
